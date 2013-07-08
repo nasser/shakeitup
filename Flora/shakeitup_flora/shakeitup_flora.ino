@@ -3,6 +3,8 @@
 For "Shake it up!" demo game 
 Eyebeam Digital Day Camp Summer 2013
 Ramsey Nasser and Kaho Abe
+
+**** Must install https://github.com/moderndevice/CapSense in Arduino libraries folder to use this!****
 ///////////////////////////////////////////////
 
 Based on code from Adafruit Tutorial on 
